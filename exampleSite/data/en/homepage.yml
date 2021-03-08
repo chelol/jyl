@@ -54,12 +54,35 @@ about:
   enable : true
   title : "Nosotras"
   image : "images/banner/banner-feature.jpg"
-  content : "
-§§Nosotros
+  
+  
+  feature_item:
+    # feature item loop
+    - name : "Gestoria"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Gestoría y trámites ante DGI, BPS, MTSS, BSE, RUPE. Procesamiento de documentación en forma mensual. Liquidación de sueldos, jornales y asesoramiento integral en materia laboral y trámites ante MTSS.."
 
+    # feature item loop
+    - name : "Liquidaciones"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Liquidación de impuestos mensuales, declaraciones juradas anuales, pagos ante DGI, BPS, IMM, y demás organismos. Liquidación de Impuesto al Patrimonio e Impuesto de Primaria. Balances ante AIN."
+
+    # feature item loop
+    - name : "Asesoramiento"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Asesoramiento integral en materia contable y fiscal. Declaraciones juradas IRPF / IASS / FONASA"
+
+    # feature item loop
+    - name : "Inversiones"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Confección de balances bancarios e informes contables. Proyectos de inversión, Flujo de fondos."
+  
+  
+  
+  content : "Nosotros
 En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado .
 
-§§Visión
+Visión
 
 Ser un estudio contable al servicio de la innovación y responsabilidad empresarial, somos reconocidos por la calidad y excelencia en nuestros servicios, privilegiando la satisfacción y el respeto de nuestros clientes y la relación con nuestros colaboradores.
 
