@@ -53,8 +53,8 @@ banner_feature:
 
 about:
   enable : true
-  title : "Nosotras"
-    content : "Nosotras"
+ - title : "Ofrecemos"
+    content : "Garantizamos a nuestros clientes un servicio integral de alto nivel profesional, otorgando soluciones efectivas a sus necesidades y acompañándolos en su crecimiento con responsabilidad, transparencia y confidencialidad. "
 
   button:
     enable : true
