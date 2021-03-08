@@ -4,25 +4,25 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Estudio Contable en Libertad, San José"
+    - title : "J & L Contadoras"
       content : "Nos dedicamos a la práctica contable, tributaria, financiera con el objetivo de brindar un asesoramiento integral a empresas y particulares."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contáctanos"
         link : "contact"
 
     # slider item loop
-    - title : "Estudio Contable en Libertad, San José"
+    - title : "J & L Contadoras"
       content : "Nos dedicamos a la práctica contable, tributaria, financiera con el objetivo de brindar un asesoramiento integral a empresas y particulares."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contáctanos"
         link : "contact"
 
    
