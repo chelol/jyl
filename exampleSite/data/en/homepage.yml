@@ -50,7 +50,7 @@ slider:
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Confección de balances bancarios e informes contables. Proyectos de inversión, Flujo de fondos."
 
-
+############################## about ##################################
   about:
   enable : true
   title : "About Educenter"
@@ -61,6 +61,24 @@ slider:
     enable : true
     label : "Learn more"
     link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advannce Networking"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
 
 ######################## Success story #############################
 success_story:
