@@ -52,10 +52,21 @@ banner_feature:
 ############################## about #################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "Nosotras"
   image : "images/banner/banner-feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "
+Nosotros
+
+En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado .
+
+Visión
+
+Ser un estudio contable al servicio de la innovación y responsabilidad empresarial, somos reconocidos por la calidad y excelencia en nuestros servicios, privilegiando la satisfacción y el respeto de nuestros clientes y la relación con nuestros colaboradores.
+
+Misión
+
+Acompañar a nuestros clientes desde el comienzo de un emprendimiento en todo su proceso de crecimiento, ayudándolos a optimizar sus recursos económicos, financieros y humanos para alcanzar sus metas, brindándoles soluciones integrales.
+ "
   button:
     enable : true
     label : "Learn more"
