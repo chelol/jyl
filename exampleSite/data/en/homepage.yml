@@ -50,7 +50,7 @@ banner_feature:
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Confección de balances bancarios e informes contables. Proyectos de inversión, Flujo de fondos."
 
-############################### Banner feature ###############################
+############################### About ###############################
 
 about:
   enable : true
@@ -61,6 +61,9 @@ about:
     enable : true
     label : "Contáctanos"
     link : "contact"
+
+
+
 
 
 
