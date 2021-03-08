@@ -26,7 +26,7 @@ slider:
         link : "contact" 
 
 ############################### Banner feature ###############################
-  banner_feature:
+banner_feature:
   enable : true
   image : "images/banner/banner-feature.png"
   feature_item:
@@ -50,8 +50,8 @@ slider:
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Confección de balances bancarios e informes contables. Proyectos de inversión, Flujo de fondos."
 
-############################## about ##################################
-  about:
+############################## about #################################
+about:
   enable : true
   title : "About Educenter"
   image : "images/about/about-us.jpg"
