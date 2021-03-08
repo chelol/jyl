@@ -60,8 +60,6 @@ about:
     label : "Learn more"
     link : "about"
 
-
-
 ############################## about #################################
 about:
   enable : true
@@ -72,8 +70,6 @@ about:
     label : "Learn more"
     link : "about"
 
-
-
 ############################## about #################################
 about:
   enable : true
@@ -83,17 +79,6 @@ about:
     enable : true
     label : "Learn more"
     link : "about"
-
-
-########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
-    link : "contact"
 
 
 ######################## Success story #############################
