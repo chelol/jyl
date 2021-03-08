@@ -24,10 +24,9 @@ slider:
         enable : true
         label : "Contáctanos"
         link : "contact"
-
-   
+      
 ############################### Banner feature ###############################
-  banner_feature :
+  banner_feature:
   enable : true
   feature_item:
     # feature item loop
