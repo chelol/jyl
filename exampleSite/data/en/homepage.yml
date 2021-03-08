@@ -55,43 +55,35 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  title : "Nosotras"
+    content : " En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado. "
+  title : "Visión"
+content : "Ser un estudio contable al servicio de la innovación y responsabilidad empresarial, somos reconocidos por la calidad y excelencia en nuestros servicios, privilegiando la satisfacción y el respeto de nuestros clientes y la relación con nuestros colaboradores."
+  
+  title : "Misión"
+  
+  content : "Acompañar a nuestros clientes desde el comienzo de un emprendimiento en todo su proceso de crecimiento, ayudándolos a optimizar sus recursos económicos, financieros y humanos para alcanzar sus metas, brindándoles soluciones integrales. "
+  
+  
   button:
     enable : true
-    label : "Learn more"
-    link : "about"
-
-
-########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
+    label : "Contáctanos"
     link : "contact"
+
+
 
 
 ######################## Success story #############################
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  title : "¿Quienes somos?"
+  
+  content : "Cra. Jimena Umpierrez"
+  content : "Cra. Luciana Irisarri"
 
-
+  
+   
 
   
 ########################### funfacts ############################
