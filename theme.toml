@@ -1,7 +1,7 @@
-name = "Educenter Hugo"
+name = "J & L Contadoras"
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Educenter theme"
+description = "Estudio Contable en Libertad,San José"
 homepage = "https://gethugothemes.com/products/educenter-hugo/"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
 features = ["blog", "company", "responsive", "seo-friendly"]
