@@ -58,12 +58,17 @@ about:
   title : "Nosotras"
     content : "En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado. "
    
+   title : "Visión"
+content : "Ser un estudio contable al servicio de la innovación y responsabilidad empresarial, somos reconocidos por la calidad y excelencia en nuestros servicios, privilegiando la satisfacción y el respeto de nuestros clientes y la relación con nuestros colaboradores."
+  
+  title : "Misión"
+  
+  content : "Acompañar a nuestros clientes desde el comienzo de un emprendimiento en todo su proceso de crecimiento, ayudándolos a optimizar sus recursos económicos, financieros y humanos para alcanzar sus metas, brindándoles soluciones integrales. "
+   
   button:
     enable : true
     label : "Contáctanos"
     link : "contact"
-
-
 
 
 ######################## Success story #############################
@@ -74,30 +79,3 @@ success_story:
   
   content : "Cra. Jimena Umpierrez"
   content : "Cra. Luciana Irisarri"
-
-  
-   
-
-  
-########################### funfacts ############################
-funfacts:
-  enable : true
-  funfact_item:
-    # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
-
-    # funfact item loop
-    - name : "COURSES"
-      count : "50"
-
-    # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
-
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
-
-# funfact is for about page
-
