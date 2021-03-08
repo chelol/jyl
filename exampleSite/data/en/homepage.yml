@@ -27,7 +27,7 @@ slider:
 
    
 ############################### Banner feature ###############################
-  banner-feature :
+  banner_feature :
   enable : true
   feature_item:
     # feature item loop
@@ -49,7 +49,6 @@ slider:
     - name : "Inversiones"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Confección de balances bancarios e informes contables. Proyectos de inversión, Flujo de fondos."
-
 
 about:
   enable : true
