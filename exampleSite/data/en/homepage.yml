@@ -27,7 +27,6 @@ slider:
 
    
 ############################### Banner feature ###############################
-banner_feature:
   enable : true
   feature_item:
     # feature item loop
