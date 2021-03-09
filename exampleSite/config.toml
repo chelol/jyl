@@ -73,8 +73,8 @@ URL = "research"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Estudio Contable, Libertad, San José"
+author = "Edge.UY"
 # contact info
 address = "Libertad, San José"
 mobile = "+59899710671"
@@ -125,12 +125,12 @@ link = "https://linkedin.com/jylcontadoras"
 
 [[params.social]]
 title = "whatsapp"
-icon = "ti-whatsapp" # themify icon : https://themify.me/themify-icons
+icon = "https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png" # themify icon : https://themify.me/themify-icons
 link = "https://wa.me/59899710671"
 
 [[params.social]]
 title = "whatsapp"
-icon = "ti-whatsapp" # themify icon : https://themify.me/themify-icons
+icon = "https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png" # themify icon : https://themify.me/themify-icons
 link = "https://wa.me/59899110539"
 
 
