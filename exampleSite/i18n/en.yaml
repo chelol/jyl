@@ -92,10 +92,10 @@
   translation: new notice
 
 - id: call
-  translation: call
+  translation: Teléfono
 
 - id: email
-  translation: email
+  translation: Correo
 
 - id: all
   translation: All
