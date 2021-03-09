@@ -84,9 +84,9 @@ about2:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "¿Quienes somos?"
+  title : "Estudio Contable"
   
-  content : "Text"
+  content : "Garantizamos a nuestros clientes un servicio integral de alto nivel profesional, otorgando soluciones efectivas a sus necesidades y acompañándolos en su crecimiento con responsabilidad, transparencia y confidencialidad. "
   
   
   ########################### funfacts ############################
