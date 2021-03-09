@@ -130,7 +130,7 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
+home = "Inicio"
 # copyright
 copyright = "Copyright &copy; 2021 Desarrollado por [Edge.UY](https://edge.uy)"
 
