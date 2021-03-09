@@ -54,20 +54,6 @@ name = "Contacto"
 URL = "contact"
 weight = 2
   
-# footer menu
-
-[[menu.footer]]
-name = "Inicio"
-URL = "teacher"
-
-[[menu.footer]]
-name = "Nosotras"
-URL = "notice"
-
-[[menu.footer]]
-name = "Contacto"
-URL = "research"
-
 
 #################### default parameters ################################
 [params]
