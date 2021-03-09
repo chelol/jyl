@@ -52,8 +52,7 @@ banner_feature:
 ############################## about #################################
 about:
   enable : true
-  title : "Nosotras"
-  image : "images/banner/banner-feature.jpg"  
+  title : "Nosotras"  
   content : "En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado. "
   button:
     enable : true
