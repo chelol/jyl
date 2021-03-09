@@ -55,7 +55,7 @@ about:
   title : "Nosotras"  
   content : "En nuestro estudio contable nos dedicamos a la atención de empresas grandes, PYMES, comerciantes, profesionales y particulares en distintas ramas de la actividad. Ofreciendo asesoramiento oportuno y especializado. "
   button:
-    enable : true
+    enable : false
     label : "Learn more"
     link : "about"
 
@@ -65,7 +65,7 @@ about1:
   title : "Visión"
   content : "Ser un estudio contable al servicio de la innovación y responsabilidad empresarial, somos reconocidos por la calidad y excelencia en nuestros servicios, privilegiando la satisfacción y el respeto de nuestros clientes y la relación con nuestros colaboradores."
   button:
-    enable : true
+    enable : false
     label : "Learn more"
     link : "about"
 
@@ -76,8 +76,8 @@ about2:
   content : "Acompañar a nuestros clientes desde el comienzo de un emprendimiento en todo su proceso de crecimiento, ayudándolos a optimizar sus recursos económicos, financieros y humanos para alcanzar sus metas, brindándoles soluciones integrales."
   button:
     enable : true
-    label : "Learn more"
-    link : "about"
+    label : "¡Contáctanos!"
+    link : "contact"
 
 
 ######################## Success story #############################
