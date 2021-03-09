@@ -77,7 +77,7 @@ description = "This is meta description"
 author = "Themefisher"
 # contact info
 address = "Libertad, San José"
-mobile = "+ 598 99 71 06 71"
+mobile = "+ 59899710671"
 email = "contacto@jylcontadoras.com.uy"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
