@@ -123,21 +123,6 @@ title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://linkedin.com/jylcontadoras"
 
-[[params.social]]
-title = "whatsapp"
-link = "<a href="https://wa.me/59899710671">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png">
- </a>"
-
-
- 
-
-[[params.social]]
-title = "whatsapp"
-link = "<a href="https://wa.me/59899110539">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png">
- </a>"
-
 
 ################################### English language #####################################
 [Languages.en]
