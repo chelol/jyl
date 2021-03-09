@@ -6,6 +6,15 @@
     <div class="container">
       <div class="row no-gutters align-items-center">
         <div class="col-lg-4 text-center text-lg-left">
+          
+            <li class="list-inline-item">                 
+  <a href="https://wa.me/59899710671">
+  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a></li>
+
+  <li class="list-inline-item">                 
+  <a href="https://wa.me/59899110539">
+  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a></li>
+          
           <ul class="list-inline">
             {{ range site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
@@ -20,17 +29,8 @@
           </ul>
         </div>
         <div class="col-lg-8 text-center text-lg-right">
-          <ul class="list-inline">
-            
-            
-  <li class="list-inline-item">                 
-  <a href="https://wa.me/59899710671">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a></li>
-
-  <li class="list-inline-item">                 
-  <a href="https://wa.me/59899110539">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a></li>
-            
+          <ul class="list-inline">         
+                        
             <li class="list-inline-item">                 
               
               <a class="text-color mr-3" href="tel:{{ site.Params.mobile }}"><strong>{{ i18n "call" | upper }} : </strong> {{ site.Params.mobile }}</a></li>
