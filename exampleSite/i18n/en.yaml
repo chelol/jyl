@@ -11,10 +11,10 @@
   translation: Contact Info
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Recibí las novedades por mail
 
 - id: subscribe
-  translation: Subscribe
+    translation: Suscribite 
 
 - id: contact_us
   translation: Contact Us
@@ -74,10 +74,10 @@
   translation: More Events
 
 - id: join
-  translation: Join
+  translation: Enviar
   
 - id: enter_email
-  translation: Enter your email…
+  translation: Ingresa tu correo electrónico
 
 - id: company
   translation: company
