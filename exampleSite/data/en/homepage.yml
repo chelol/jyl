@@ -85,15 +85,8 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Redes Sociales"
-  
-  content : "
-           
-  <a href="https://wa.me/59899710671">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a>
-  <a href="https://wa.me/59899110539">
-  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a>"
-            
-     
+      
+      
   
   ########################### funfacts ############################
 funfacts:
