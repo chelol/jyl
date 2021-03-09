@@ -5,7 +5,7 @@
   translation: Contact Form
 
 - id: send
-  translation: send message
+  translation: Enviar mensaje
 
 - id: contact_info
   translation: Contact Info
@@ -17,7 +17,7 @@
   translation: Suscribite 
 
 - id: contact_us
-  translation: Contact Us
+  translation: Contáctanos
 
 - id: latest_article
   translation: Latest Article
