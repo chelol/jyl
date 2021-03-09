@@ -84,10 +84,16 @@ about2:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Estudio Contable"
+  title : "Redes Sociales"
   
-  content : "Garantizamos a nuestros clientes un servicio integral de alto nivel profesional, otorgando soluciones efectivas a sus necesidades y acompañándolos en su crecimiento con responsabilidad, transparencia y confidencialidad. "
-  
+  content : "
+           
+  <a href="https://wa.me/59899710671">
+  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a>
+  <a href="https://wa.me/59899110539">
+  <img src="https://raw.githubusercontent.com/chelol/jyl/master/images/whatsapp.png"></a>"
+            
+     
   
   ########################### funfacts ############################
 funfacts:
