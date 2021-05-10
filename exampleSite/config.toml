@@ -54,6 +54,11 @@ name = "Contacto"
 URL = "contact"
 weight = 2
   
+[[menu.main]]
+name = "Agenda"
+URL = "agenda"
+weight = 3
+
 
 #################### default parameters ################################
 [params]
