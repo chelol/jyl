@@ -1,1 +1,38 @@
+{{ define "main" }}
 
+<!-- contact -->
+<section class="section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 class="section-title">{{ i18n "contact_us" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-7 mb-4 mb-lg-0">
+        <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
+          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Nombre">
+          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Email">
+          <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Asunto">
+          <textarea name="message" id="message" class="form-control mb-3" placeholder="Mensaje"></textarea>
+          <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
+        </form>
+      </div>
+      <div class="col-lg-5 content">
+        {{ .Content }}
+        <a href="tel:+59899710671" class="text-color h5 d-block">+598 99 71 06 71</a>
+
+        <a href="tel:+59899110539" class="text-color h5 d-block">+598 99 11 05 39</a>
+
+        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
+        
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.7392194948796!2d-56.61657777078006!3d-34.63052999877828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a19448c914ee33%3A0x8bc87ce223ab2f2e!2sDr%20Luis%20Morquio%20969%2C%2080100%20Libertad%2C%20Departamento%20de%20San%20Jos%C3%A9!5e0!3m2!1ses-419!2suy!4v1615298179738!5m2!1ses-419!2suy" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        
+        <p>Dr Luis Morquio 969, Libertad, San José</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+
+{{ end }}
