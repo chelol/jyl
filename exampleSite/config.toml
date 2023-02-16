@@ -59,6 +59,10 @@ name = "Agenda"
 URL = "agenda"
 weight = 3
 
+[[menu.main]]
+name = "Emprendedores"
+URL = "emprendedores"
+weight = 4
 
 #################### default parameters ################################
 [params]
