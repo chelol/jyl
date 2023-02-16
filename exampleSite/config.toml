@@ -59,6 +59,11 @@ name = "Emprendedores"
 URL = "emprendedores"
 weight = 3
 
+[[menu.main]]
+name = "Agenda"
+URL = "agenda"
+weight = 4
+
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
