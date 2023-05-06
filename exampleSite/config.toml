@@ -64,6 +64,11 @@ name = "Agenda"
 URL = "agenda"
 weight = 4
 
+[[menu.main]]
+name = "Blog"
+URL = "https://blog.jylcontadoras.com.uy/"
+weight = 5
+
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
