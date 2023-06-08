@@ -76,8 +76,8 @@ logo = "images/logo.png"
 description = "Estudio Contable, Libertad, San José"
 author = "Edge.UY"
 # contact info
-address = "Libertad, San José"
-mobile = "+59899710671"
+address = "25 de Agosto 831, Libertad, San José"
+mobile = "+59898305145"
 email = "contacto@jylcontadoras.com.uy"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
